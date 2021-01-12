@@ -2,24 +2,24 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2020/11/03 09:48:06.000.644,=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/11/03 09:49:29.000.574,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\MainU.pas</Transaction>
-    <Transaction>2020/11/03 09:49:29.000.574,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\MainU.dfm</Transaction>
-    <Transaction>2020/11/03 09:50:11.000.085,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Magacin2.dproj</Transaction>
+    <Transaction>2020/11/03 09:49:29.000.574,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\MainU.dfm=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/11/03 09:49:29.000.574,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\MainU.pas=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/03 09:50:11.000.085,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Magacin2.dproj=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2020/11/03 09:51:25.000.965,=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas</Transaction>
-    <Transaction>2020/11/03 09:52:02.000.235,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.dfm=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\DM.dfm</Transaction>
-    <Transaction>2020/11/03 09:52:02.000.235,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\DM.pas</Transaction>
+    <Transaction>2020/11/03 09:52:02.000.235,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\DM.dfm=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.dfm</Transaction>
+    <Transaction>2020/11/03 09:52:02.000.235,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\DM.pas=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas</Transaction>
     <Transaction>2020/11/03 09:52:13.000.740,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\DM.pas=</Transaction>
     <Transaction>2020/11/03 09:52:22.000.990,=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas</Transaction>
-    <Transaction>2020/11/03 09:52:35.000.517,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\DM.pas</Transaction>
-    <Transaction>2020/11/03 09:52:35.000.517,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.dfm=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\DM.dfm</Transaction>
+    <Transaction>2020/11/03 09:52:35.000.517,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\DM.pas=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas</Transaction>
+    <Transaction>2020/11/03 09:52:35.000.517,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\DM.dfm=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.dfm</Transaction>
     <Transaction>2020/11/03 09:52:43.000.904,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\DM.pas=</Transaction>
     <Transaction>2020/11/03 09:53:12.000.230,=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas</Transaction>
-    <Transaction>2020/11/03 09:53:19.000.874,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.dfm=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\dm.dfm</Transaction>
-    <Transaction>2020/11/03 09:53:19.000.874,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\dm.pas</Transaction>
+    <Transaction>2020/11/03 09:53:19.000.874,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\dm.dfm=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.dfm</Transaction>
+    <Transaction>2020/11/03 09:53:19.000.874,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\dm.pas=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas</Transaction>
     <Transaction>2020/11/03 12:05:15.000.937,=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas</Transaction>
     <Transaction>2020/11/03 12:06:18.000.251,=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas</Transaction>
     <Transaction>2020/11/03 12:06:27.000.199,=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas</Transaction>
-    <Transaction>2020/11/03 12:09:19.000.049,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\ArtikalU.pas</Transaction>
-    <Transaction>2020/11/03 12:09:19.000.049,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.dfm=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\ArtikalU.dfm</Transaction>
+    <Transaction>2020/11/03 12:09:19.000.049,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\ArtikalU.pas=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.pas</Transaction>
+    <Transaction>2020/11/03 12:09:19.000.049,C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\ArtikalU.dfm=C:\Users\Tashevski\Documents\Embarcadero\Studio\Projects\Magacin2.1\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>

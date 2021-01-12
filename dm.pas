@@ -8,6 +8,8 @@ uses
 type
   TDataModule1 = class(TDataModule)
     ADOcon1: TADOConnection;
+    DataSourceArtikli: TDataSource;
+    ADOTableArtikli: TADOTable;
   private
     { Private declarations }
   public

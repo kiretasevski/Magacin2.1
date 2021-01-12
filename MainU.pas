@@ -4,7 +4,7 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, Vcl.StdCtrls, Vcl.ComCtrls;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, Vcl.StdCtrls, Vcl.ComCtrls, DB;
 
 type
   TfrmMain = class(TForm)
@@ -54,6 +54,7 @@ uses ArtikalU, dm;
 
 procedure TfrmMain.BtnArtNovClick(Sender: TObject);
 begin
+DataModule1.ADOTableArtikli.Append ;
 frmArtikal.ShowModal ;
 end;
 

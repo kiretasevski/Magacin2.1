@@ -12,6 +12,7 @@ object frmMain: TfrmMain
   Font.Style = []
   Menu = MainMenu1
   OldCreateOrder = False
+  Position = poDesktopCenter
   PixelsPerInch = 96
   TextHeight = 13
   object GBArtikli: TGroupBox
@@ -125,9 +126,6 @@ object frmMain: TfrmMain
         Alignment = taRightJustify
         Width = 50
       end>
-    ExplicitLeft = 112
-    ExplicitTop = 584
-    ExplicitWidth = 0
   end
   object MainMenu1: TMainMenu
     object N5: TMenuItem
